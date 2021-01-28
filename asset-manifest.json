@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ipod.git/static/css/main.21cf0998.chunk.css",
+    "main.js": "/Ipod.git/static/js/main.aeac08ad.chunk.js",
+    "main.js.map": "/Ipod.git/static/js/main.aeac08ad.chunk.js.map",
+    "runtime-main.js": "/Ipod.git/static/js/runtime-main.3c892467.js",
+    "runtime-main.js.map": "/Ipod.git/static/js/runtime-main.3c892467.js.map",
+    "static/js/2.b446eb98.chunk.js": "/Ipod.git/static/js/2.b446eb98.chunk.js",
+    "static/js/2.b446eb98.chunk.js.map": "/Ipod.git/static/js/2.b446eb98.chunk.js.map",
+    "index.html": "/Ipod.git/index.html",
+    "precache-manifest.d7f88b559c1eea52f60d8e7e0e40efa7.js": "/Ipod.git/precache-manifest.d7f88b559c1eea52f60d8e7e0e40efa7.js",
+    "service-worker.js": "/Ipod.git/service-worker.js",
+    "static/css/main.21cf0998.chunk.css.map": "/Ipod.git/static/css/main.21cf0998.chunk.css.map",
+    "static/js/2.b446eb98.chunk.js.LICENSE.txt": "/Ipod.git/static/js/2.b446eb98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c892467.js",
+    "static/js/2.b446eb98.chunk.js",
+    "static/css/main.21cf0998.chunk.css",
+    "static/js/main.aeac08ad.chunk.js"
+  ]
+}
